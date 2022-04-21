@@ -28,7 +28,7 @@
 
 ## 5. Check reports realtime to view whether Analytics is connected.
 
-![alt text](https://github.com/taylorhelene/Chemtai-s_portfolio/blob/main/assets/img/images/realtime.png)
+![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/realtime.png)
 
 
 ## 6. Create our first A B test experience
@@ -38,15 +38,15 @@
    - Create an experince with the A/B testing option
    - Simply click.Add Variant will give you the name, say, variant one or variant A and click Done.
 
-![alt text](https://github.com/taylorhelene/Chemtai-s_portfolio/blob/main/assets/img/images/addvariant.png)
+![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/addvariant.png)
 
    - Edit your second variant.
 
-![alt text](https://github.com/taylorhelene/Chemtai-s_portfolio/blob/main/assets/img/images/Editvariant.png)
+![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/Editvariant.png)
 
    - Set up targeting rules
 
-![alt text](https://github.com/taylorhelene/Chemtai-s_portfolio/blob/main/assets/img/images/audiencetargetting.png)
+![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/audiencetargetting.png)
 
    - Link analytics account
    - Set up objectives for example clicking on bounce would analyze how many people visited the site 
