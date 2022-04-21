@@ -4,7 +4,7 @@
 
 ## 1. Set up an google optimize account
 
-   -This will create your first container so you can begin utilize Google Optimize.
+   - This will create your first container so you can begin utilize Google Optimize.
    We'll create our first experience later
 
 ## 2. Set up an google analytics account with the same email provided in step 1.
