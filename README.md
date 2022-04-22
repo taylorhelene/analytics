@@ -21,8 +21,8 @@
 
 ## 3. Install the following extensions for Optimize and analytics.
 
-   -https://chrome.google.com/webstore/detail/google-optimize/bhdplaindhdkiflmbfbciehdccfhegci
-   -https://chrome.google.com/webstore/detail/page-analytics-by-google/fnbdnhhicmebfgdgglcdacdapkcihcoh
+   - https://chrome.google.com/webstore/detail/google-optimize/bhdplaindhdkiflmbfbciehdccfhegci
+   - https://chrome.google.com/webstore/detail/page-analytics-by-google/fnbdnhhicmebfgdgglcdacdapkcihcoh
 
 ## 4. Copy the global site tag and add it to your website <head>.
 
