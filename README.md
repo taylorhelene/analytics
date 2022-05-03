@@ -49,6 +49,12 @@
 ![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/audiencetargetting.png)
 
    - Link analytics account
+   -Add optimize tag to <head>
+   
+   ![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/optimizecode.jpg)
+   
    - Set up objectives for example clicking on bounce would analyze how many people visited the site 
    without navigating to another page would help choose which variant is better for users.
    - Start.
+   
+   ![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/save.png)
