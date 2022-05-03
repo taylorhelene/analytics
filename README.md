@@ -24,7 +24,7 @@
    - https://chrome.google.com/webstore/detail/google-optimize/bhdplaindhdkiflmbfbciehdccfhegci
    - https://chrome.google.com/webstore/detail/page-analytics-by-google/fnbdnhhicmebfgdgglcdacdapkcihcoh
 
-## 4. Copy the global site tag and add it to your website <head>.
+## 4. Copy the global site tag and add it to your website head tag.
 
 ## 5. Check reports realtime to view whether Analytics is connected.
 
@@ -49,7 +49,7 @@
 ![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/audiencetargetting.png)
 
    - Link analytics account
-   - Add optimize tag to <head> tag.
+   - Add optimize tag to websie head tag.
    
    ![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/optimizecode.jpg)
    
