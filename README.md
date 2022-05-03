@@ -49,7 +49,7 @@
 ![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/audiencetargetting.png)
 
    - Link analytics account
-   -Add optimize tag to <head>
+   - Add optimize tag to <head>
    
    ![alt text](https://raw.githubusercontent.com/taylorhelene/Chemtai-s_portfolio/main/assets/img/images/optimizecode.jpg)
    
